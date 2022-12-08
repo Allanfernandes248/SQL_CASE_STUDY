@@ -20,4 +20,4 @@ https://allanfernandes.notion.site/SQL-CASE-STUDY-1c8e8bb918f143b4878495c1e15b95
 
 
 ## Create table Query 
-Copy and paste the **Create Table** file to create the tables in your own environment.  
+Copy and paste the **Query to Create Table** file to create the tables in your own environment.  
